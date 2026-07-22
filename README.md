@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Kyash24/LeetCode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/Kyash24/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Kyash24/LeetCode/tree/master/0682-baseball-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kyash24/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Kyash24/LeetCode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Kyash24/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
