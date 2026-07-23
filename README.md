@@ -14,6 +14,7 @@
 | [1929-concatenation-of-array](https://github.com/Kyash24/LeetCode/tree/master/1929-concatenation-of-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kyash24/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3452-sum-of-good-numbers](https://github.com/Kyash24/LeetCode/tree/master/3452-sum-of-good-numbers) |
+| [3454-separate-squares-ii](https://github.com/Kyash24/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Math
 |  |
 | ------- |
@@ -73,8 +74,17 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Kyash24/LeetCode/tree/master/0069-sqrtx) |
+| [3454-separate-squares-ii](https://github.com/Kyash24/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Kyash24/LeetCode/tree/master/0136-single-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Kyash24/LeetCode/tree/master/3454-separate-squares-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Kyash24/LeetCode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
