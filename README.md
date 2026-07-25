@@ -25,6 +25,7 @@
 | [0067-add-binary](https://github.com/Kyash24/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kyash24/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kyash24/LeetCode/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/Kyash24/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kyash24/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Kyash24/LeetCode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Kyash24/LeetCode/tree/master/0367-valid-perfect-square) |
 | [3454-separate-squares-ii](https://github.com/Kyash24/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Bit Manipulation
 |  |
