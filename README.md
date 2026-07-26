@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kyash24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Kyash24/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kyash24/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -87,6 +88,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kyash24/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Kyash24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kyash24/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kyash24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Kyash24/LeetCode/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kyash24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kyash24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
