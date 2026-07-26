@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Kyash24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Kyash24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Kyash24/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Kyash24/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Kyash24/LeetCode/tree/master/0136-single-number) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kyash24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Kyash24/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kyash24/LeetCode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Kyash24/LeetCode/tree/master/0367-valid-perfect-square) |
 | [3454-separate-squares-ii](https://github.com/Kyash24/LeetCode/tree/master/3454-separate-squares-ii) |
