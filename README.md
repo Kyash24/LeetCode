@@ -42,6 +42,7 @@
 | [0070-climbing-stairs](https://github.com/Kyash24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Kyash24/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Kyash24/LeetCode/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Kyash24/LeetCode/tree/master/0224-basic-calculator) |
 | [0367-valid-perfect-square](https://github.com/Kyash24/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kyash24/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
@@ -100,12 +101,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kyash24/LeetCode/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Kyash24/LeetCode/tree/master/0224-basic-calculator) |
 | [0682-baseball-game](https://github.com/Kyash24/LeetCode/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kyash24/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Kyash24/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0224-basic-calculator](https://github.com/Kyash24/LeetCode/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -115,6 +118,7 @@
 | [0020-valid-parentheses](https://github.com/Kyash24/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kyash24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Kyash24/LeetCode/tree/master/0067-add-binary) |
+| [0224-basic-calculator](https://github.com/Kyash24/LeetCode/tree/master/0224-basic-calculator) |
 ## Binary Search
 |  |
 | ------- |
