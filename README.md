@@ -40,6 +40,7 @@
 | [0067-add-binary](https://github.com/Kyash24/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kyash24/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kyash24/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Kyash24/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Kyash24/LeetCode/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Kyash24/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kyash24/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -57,6 +58,7 @@
 | [0141-linked-list-cycle](https://github.com/Kyash24/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kyash24/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kyash24/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Kyash24/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Kyash24/LeetCode/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
@@ -80,6 +82,7 @@
 | [0141-linked-list-cycle](https://github.com/Kyash24/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kyash24/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kyash24/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Kyash24/LeetCode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
