@@ -43,6 +43,7 @@
 | [0202-happy-number](https://github.com/Kyash24/LeetCode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Kyash24/LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Kyash24/LeetCode/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/Kyash24/LeetCode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Kyash24/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kyash24/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kyash24/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kyash24/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Kyash24/LeetCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Kyash24/LeetCode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Kyash24/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -192,4 +194,5 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kyash24/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Kyash24/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
