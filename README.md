@@ -23,6 +23,7 @@
 | [0118-pascals-triangle](https://github.com/Kyash24/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Kyash24/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Kyash24/LeetCode/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/Kyash24/LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Kyash24/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Kyash24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Kyash24/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -100,6 +101,7 @@
 | [0015-3sum](https://github.com/Kyash24/LeetCode/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Kyash24/LeetCode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/Kyash24/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Kyash24/LeetCode/tree/master/0217-contains-duplicate) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kyash24/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
@@ -130,6 +132,7 @@
 | [0020-valid-parentheses](https://github.com/Kyash24/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kyash24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Kyash24/LeetCode/tree/master/0067-add-binary) |
+| [0179-largest-number](https://github.com/Kyash24/LeetCode/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Kyash24/LeetCode/tree/master/0224-basic-calculator) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kyash24/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Binary Search
@@ -208,4 +211,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kyash24/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Kyash24/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
