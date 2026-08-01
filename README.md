@@ -27,6 +27,7 @@
 | [0179-largest-number](https://github.com/Kyash24/LeetCode/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/Kyash24/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Kyash24/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Kyash24/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Kyash24/LeetCode/tree/master/0486-predict-the-winner) |
 | [0682-baseball-game](https://github.com/Kyash24/LeetCode/tree/master/0682-baseball-game) |
@@ -53,6 +54,7 @@
 | [0224-basic-calculator](https://github.com/Kyash24/LeetCode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Kyash24/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Kyash24/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kyash24/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Kyash24/LeetCode/tree/master/0486-predict-the-winner) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kyash24/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -76,6 +78,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Kyash24/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Kyash24/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Kyash24/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 | [0088-merge-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Kyash24/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Kyash24/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kyash24/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Enumeration
 |  |
@@ -152,6 +156,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kyash24/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kyash24/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kyash24/LeetCode/tree/master/0367-valid-perfect-square) |
 | [3454-separate-squares-ii](https://github.com/Kyash24/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Bit Manipulation
@@ -159,6 +164,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Kyash24/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Kyash24/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
 ## Segment Tree
 |  |
 | ------- |
