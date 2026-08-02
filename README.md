@@ -31,6 +31,7 @@
 | [0485-max-consecutive-ones](https://github.com/Kyash24/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Kyash24/LeetCode/tree/master/0486-predict-the-winner) |
 | [0682-baseball-game](https://github.com/Kyash24/LeetCode/tree/master/0682-baseball-game) |
+| [0877-stone-game](https://github.com/Kyash24/LeetCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kyash24/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Kyash24/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/Kyash24/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -58,6 +59,7 @@
 | [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kyash24/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Kyash24/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Kyash24/LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kyash24/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kyash24/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
@@ -184,6 +186,7 @@
 | [0118-pascals-triangle](https://github.com/Kyash24/LeetCode/tree/master/0118-pascals-triangle) |
 | [0233-number-of-digit-one](https://github.com/Kyash24/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/Kyash24/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Kyash24/LeetCode/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -241,4 +244,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Kyash24/LeetCode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Kyash24/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
