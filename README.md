@@ -61,6 +61,7 @@
 | [0233-number-of-digit-one](https://github.com/Kyash24/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Kyash24/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
+| [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Kyash24/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Kyash24/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Kyash24/LeetCode/tree/master/0877-stone-game) |
@@ -263,4 +264,28 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Kyash24/LeetCode/tree/master/1406-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
