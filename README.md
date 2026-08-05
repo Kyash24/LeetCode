@@ -268,10 +268,12 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [3310-remove-methods-from-project](https://github.com/Kyash24/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [3310-remove-methods-from-project](https://github.com/Kyash24/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -288,4 +290,8 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Kyash24/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
