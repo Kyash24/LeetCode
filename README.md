@@ -68,6 +68,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kyash24/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kyash24/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/Kyash24/LeetCode/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kyash24/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Simulation
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/Kyash24/LeetCode/tree/master/0204-count-primes) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kyash24/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Kyash24/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Stack
 |  |
 | ------- |
