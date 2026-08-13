@@ -38,6 +38,7 @@
 | [1406-stone-game-iii](https://github.com/Kyash24/LeetCode/tree/master/1406-stone-game-iii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Kyash24/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1929-concatenation-of-array](https://github.com/Kyash24/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kyash24/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kyash24/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kyash24/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kyash24/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -172,6 +173,7 @@
 | [0179-largest-number](https://github.com/Kyash24/LeetCode/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Kyash24/LeetCode/tree/master/0224-basic-calculator) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kyash24/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kyash24/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kyash24/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kyash24/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
@@ -194,6 +196,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kyash24/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3454-separate-squares-ii](https://github.com/Kyash24/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Sweep Line
 |  |
@@ -330,4 +333,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Kyash24/LeetCode/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Kyash24/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
