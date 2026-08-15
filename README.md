@@ -45,6 +45,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kyash24/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3452-sum-of-good-numbers](https://github.com/Kyash24/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3454-separate-squares-ii](https://github.com/Kyash24/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kyash24/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [0136-single-number](https://github.com/Kyash24/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Kyash24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kyash24/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Segment Tree
 |  |
 | ------- |
