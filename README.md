@@ -180,6 +180,7 @@
 | [0020-valid-parentheses](https://github.com/Kyash24/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kyash24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Kyash24/LeetCode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Kyash24/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0179-largest-number](https://github.com/Kyash24/LeetCode/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Kyash24/LeetCode/tree/master/0224-basic-calculator) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kyash24/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -220,6 +221,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kyash24/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Kyash24/LeetCode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Kyash24/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Kyash24/LeetCode/tree/master/0118-pascals-triangle) |
 | [0233-number-of-digit-one](https://github.com/Kyash24/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/Kyash24/LeetCode/tree/master/0486-predict-the-winner) |
