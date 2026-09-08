@@ -83,6 +83,7 @@
 | [2029-stone-game-ix](https://github.com/Kyash24/LeetCode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kyash24/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kyash24/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3870-count-commas-in-range](https://github.com/Kyash24/LeetCode/tree/master/3870-count-commas-in-range) |
 ## Simulation
 |  |
 | ------- |
