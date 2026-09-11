@@ -50,6 +50,7 @@
 | [3452-sum-of-good-numbers](https://github.com/Kyash24/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3454-separate-squares-ii](https://github.com/Kyash24/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kyash24/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kyash24/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kyash24/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -111,6 +112,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kyash24/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kyash24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kyash24/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kyash24/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0204-count-primes](https://github.com/Kyash24/LeetCode/tree/master/0204-count-primes) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kyash24/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Kyash24/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kyash24/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -171,6 +174,7 @@
 | [0231-power-of-two](https://github.com/Kyash24/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Kyash24/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/Kyash24/LeetCode/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Kyash24/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
