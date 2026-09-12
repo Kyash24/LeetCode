@@ -47,6 +47,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Kyash24/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kyash24/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kyash24/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kyash24/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3452-sum-of-good-numbers](https://github.com/Kyash24/LeetCode/tree/master/3452-sum-of-good-numbers) |
 | [3454-separate-squares-ii](https://github.com/Kyash24/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kyash24/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -152,6 +153,7 @@
 | [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kyash24/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kyash24/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kyash24/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Enumeration
 |  |
 | ------- |
@@ -205,6 +207,7 @@
 | [0069-sqrtx](https://github.com/Kyash24/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kyash24/LeetCode/tree/master/0367-valid-perfect-square) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kyash24/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3454-separate-squares-ii](https://github.com/Kyash24/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Bit Manipulation
 |  |
@@ -238,6 +241,7 @@
 | [1406-stone-game-iii](https://github.com/Kyash24/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kyash24/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Kyash24/LeetCode/tree/master/1563-stone-game-v) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kyash24/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
