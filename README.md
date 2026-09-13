@@ -33,6 +33,7 @@
 | [0485-max-consecutive-ones](https://github.com/Kyash24/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Kyash24/LeetCode/tree/master/0486-predict-the-winner) |
 | [0682-baseball-game](https://github.com/Kyash24/LeetCode/tree/master/0682-baseball-game) |
+| [0835-image-overlap](https://github.com/Kyash24/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kyash24/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kyash24/LeetCode/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kyash24/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -380,4 +381,8 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Kyash24/LeetCode/tree/master/2029-stone-game-ix) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Kyash24/LeetCode/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
