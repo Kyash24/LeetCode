@@ -77,6 +77,7 @@
 | [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Kyash24/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/Kyash24/LeetCode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Kyash24/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Kyash24/LeetCode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kyash24/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/Kyash24/LeetCode/tree/master/1140-stone-game-ii) |
@@ -385,4 +386,8 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Kyash24/LeetCode/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Kyash24/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
