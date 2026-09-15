@@ -143,6 +143,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Kyash24/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Kyash24/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kyash24/LeetCode/tree/master/0202-happy-number) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kyash24/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0224-basic-calculator](https://github.com/Kyash24/LeetCode/tree/master/0224-basic-calculator) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kyash24/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kyash24/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kyash24/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Kyash24/LeetCode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kyash24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kyash24/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -243,6 +245,7 @@
 | [1406-stone-game-iii](https://github.com/Kyash24/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Kyash24/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Kyash24/LeetCode/tree/master/1563-stone-game-v) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kyash24/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Kyash24/LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Memoization
 |  |
@@ -305,6 +308,7 @@
 | [0179-largest-number](https://github.com/Kyash24/LeetCode/tree/master/0179-largest-number) |
 | [1386-cinema-seat-allocation](https://github.com/Kyash24/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Kyash24/LeetCode/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kyash24/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kyash24/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
