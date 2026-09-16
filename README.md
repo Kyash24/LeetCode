@@ -54,6 +54,7 @@
 | [3454-separate-squares-ii](https://github.com/Kyash24/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kyash24/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kyash24/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyash24/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kyash24/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -121,6 +122,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Kyash24/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Kyash24/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Kyash24/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyash24/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Kyash24/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kyash24/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyash24/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Kyash24/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Segment Tree
 |  |
@@ -362,6 +365,7 @@
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [3310-remove-methods-from-project](https://github.com/Kyash24/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyash24/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bézout's Lemma
 |  |
 | ------- |
@@ -407,6 +411,7 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Kyash24/LeetCode/tree/master/0835-image-overlap) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyash24/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
 |  |
 | ------- |
