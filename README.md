@@ -196,6 +196,7 @@
 | [0224-basic-calculator](https://github.com/Kyash24/LeetCode/tree/master/0224-basic-calculator) |
 | [0682-baseball-game](https://github.com/Kyash24/LeetCode/tree/master/0682-baseball-game) |
 | [1096-brace-expansion-ii](https://github.com/Kyash24/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kyash24/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -226,6 +227,7 @@
 | [0224-basic-calculator](https://github.com/Kyash24/LeetCode/tree/master/0224-basic-calculator) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kyash24/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/Kyash24/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kyash24/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kyash24/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kyash24/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Kyash24/LeetCode/tree/master/1927-sum-game) |
@@ -465,4 +467,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kyash24/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kyash24/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
