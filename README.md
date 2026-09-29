@@ -19,6 +19,7 @@
 | [0046-permutations](https://github.com/Kyash24/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kyash24/LeetCode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Kyash24/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Kyash24/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kyash24/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyash24/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -269,6 +270,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kyash24/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Kyash24/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Kyash24/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Kyash24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
@@ -356,6 +358,7 @@
 | [0039-combination-sum](https://github.com/Kyash24/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Kyash24/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kyash24/LeetCode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/Kyash24/LeetCode/tree/master/0078-subsets) |
 | [1096-brace-expansion-ii](https://github.com/Kyash24/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kyash24/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
