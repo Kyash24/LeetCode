@@ -37,6 +37,7 @@
 | [0835-image-overlap](https://github.com/Kyash24/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kyash24/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Kyash24/LeetCode/tree/master/1140-stone-game-ii) |
+| [1268-search-suggestions-system](https://github.com/Kyash24/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kyash24/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/Kyash24/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Kyash24/LeetCode/tree/master/1406-stone-game-iii) |
@@ -184,6 +185,7 @@
 | [0217-contains-duplicate](https://github.com/Kyash24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/Kyash24/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1268-search-suggestions-system](https://github.com/Kyash24/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kyash24/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Kyash24/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Kyash24/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -237,6 +239,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Kyash24/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/Kyash24/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kyash24/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1268-search-suggestions-system](https://github.com/Kyash24/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kyash24/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kyash24/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Kyash24/LeetCode/tree/master/1927-sum-game) |
@@ -256,6 +259,7 @@
 | [0069-sqrtx](https://github.com/Kyash24/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Kyash24/LeetCode/tree/master/0367-valid-perfect-square) |
+| [1268-search-suggestions-system](https://github.com/Kyash24/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kyash24/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kyash24/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kyash24/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -309,6 +313,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kyash24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kyash24/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [1268-search-suggestions-system](https://github.com/Kyash24/LeetCode/tree/master/1268-search-suggestions-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -476,6 +481,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kyash24/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyash24/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1268-search-suggestions-system](https://github.com/Kyash24/LeetCode/tree/master/1268-search-suggestions-system) |
 ## Merge Sort
 |  |
 | ------- |
