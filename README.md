@@ -26,6 +26,7 @@
 | [0118-pascals-triangle](https://github.com/Kyash24/LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Kyash24/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Kyash24/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Kyash24/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Kyash24/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Kyash24/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Kyash24/LeetCode/tree/master/0204-count-primes) |
@@ -125,6 +126,7 @@
 | [0141-linked-list-cycle](https://github.com/Kyash24/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kyash24/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kyash24/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Kyash24/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Kyash24/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kyash24/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Kyash24/LeetCode/tree/master/0217-contains-duplicate) |
@@ -181,6 +183,7 @@
 | [0016-3sum-closest](https://github.com/Kyash24/LeetCode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Kyash24/LeetCode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Kyash24/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Kyash24/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyash24/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Kyash24/LeetCode/tree/master/0217-contains-duplicate) |
@@ -333,6 +336,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Kyash24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Kyash24/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyash24/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Kyash24/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyash24/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## String Matching
 |  |
@@ -465,6 +469,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Kyash24/LeetCode/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/Kyash24/LeetCode/tree/master/2029-stone-game-ix) |
 ## Matrix
 |  |
@@ -510,4 +515,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Kyash24/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kyash24/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
