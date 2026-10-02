@@ -20,6 +20,7 @@
 | [0047-permutations-ii](https://github.com/Kyash24/LeetCode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Kyash24/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Kyash24/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Kyash24/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kyash24/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyash24/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -236,6 +237,7 @@
 | [0022-generate-parentheses](https://github.com/Kyash24/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kyash24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Kyash24/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Kyash24/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Kyash24/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Kyash24/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Kyash24/LeetCode/tree/master/0179-largest-number) |
@@ -365,6 +367,7 @@
 | [0046-permutations](https://github.com/Kyash24/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kyash24/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Kyash24/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Kyash24/LeetCode/tree/master/0079-word-search) |
 | [1096-brace-expansion-ii](https://github.com/Kyash24/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Kyash24/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -417,6 +420,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Kyash24/LeetCode/tree/master/0079-word-search) |
 | [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kyash24/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Kyash24/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -474,6 +478,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Kyash24/LeetCode/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Kyash24/LeetCode/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kyash24/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyash24/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
