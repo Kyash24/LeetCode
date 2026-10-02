@@ -16,6 +16,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kyash24/LeetCode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Kyash24/LeetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Kyash24/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Kyash24/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kyash24/LeetCode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Kyash24/LeetCode/tree/master/0066-plus-one) |
@@ -168,6 +169,7 @@
 | [0027-remove-element](https://github.com/Kyash24/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kyash24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Kyash24/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Kyash24/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kyash24/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Kyash24/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kyash24/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Kyash24/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0224-basic-calculator](https://github.com/Kyash24/LeetCode/tree/master/0224-basic-calculator) |
 | [0682-baseball-game](https://github.com/Kyash24/LeetCode/tree/master/0682-baseball-game) |
 | [1096-brace-expansion-ii](https://github.com/Kyash24/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -301,6 +304,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kyash24/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Kyash24/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Kyash24/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Kyash24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Kyash24/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Kyash24/LeetCode/tree/master/0118-pascals-triangle) |
@@ -527,4 +531,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kyash24/LeetCode/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Kyash24/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
