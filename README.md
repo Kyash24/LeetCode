@@ -43,6 +43,7 @@
 | [0682-baseball-game](https://github.com/Kyash24/LeetCode/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/Kyash24/LeetCode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Kyash24/LeetCode/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/Kyash24/LeetCode/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Kyash24/LeetCode/tree/master/1140-stone-game-ii) |
 | [1268-search-suggestions-system](https://github.com/Kyash24/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kyash24/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -445,6 +446,7 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
+| [0994-rotting-oranges](https://github.com/Kyash24/LeetCode/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Kyash24/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Kyash24/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyash24/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -497,6 +499,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Kyash24/LeetCode/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Kyash24/LeetCode/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/Kyash24/LeetCode/tree/master/0994-rotting-oranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Kyash24/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Kyash24/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
