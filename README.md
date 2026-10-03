@@ -19,6 +19,7 @@
 | [0042-trapping-rain-water](https://github.com/Kyash24/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Kyash24/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kyash24/LeetCode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Kyash24/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Kyash24/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Kyash24/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kyash24/LeetCode/tree/master/0079-word-search) |
@@ -189,6 +190,7 @@
 | [0015-3sum](https://github.com/Kyash24/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Kyash24/LeetCode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Kyash24/LeetCode/tree/master/0047-permutations-ii) |
+| [0056-merge-intervals](https://github.com/Kyash24/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kyash24/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Kyash24/LeetCode/tree/master/0179-largest-number) |
@@ -539,4 +541,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kyash24/LeetCode/tree/master/0042-trapping-rain-water) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Kyash24/LeetCode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
