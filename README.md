@@ -159,6 +159,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kyash24/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Kyash24/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kyash24/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Kyash24/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kyash24/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
@@ -177,6 +178,7 @@
 | [0088-merge-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Kyash24/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kyash24/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Kyash24/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Kyash24/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kyash24/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Kyash24/LeetCode/tree/master/0189-rotate-array) |
@@ -192,6 +194,7 @@
 | [0047-permutations-ii](https://github.com/Kyash24/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Kyash24/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Kyash24/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kyash24/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Kyash24/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyash24/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -350,6 +353,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Kyash24/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Kyash24/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyash24/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Kyash24/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kyash24/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyash24/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## String Matching
@@ -514,6 +518,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kyash24/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/Kyash24/LeetCode/tree/master/0148-sort-list) |
 ## Tournament Sort
 |  |
 | ------- |
