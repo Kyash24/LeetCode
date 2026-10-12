@@ -189,6 +189,7 @@
 | [0283-move-zeroes](https://github.com/Kyash24/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kyash24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Kyash24/LeetCode/tree/master/0392-is-subsequence) |
+| [1768-merge-strings-alternately](https://github.com/Kyash24/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Kyash24/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
@@ -266,6 +267,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Kyash24/LeetCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1268-search-suggestions-system](https://github.com/Kyash24/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kyash24/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1768-merge-strings-alternately](https://github.com/Kyash24/LeetCode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kyash24/LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Kyash24/LeetCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Kyash24/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
