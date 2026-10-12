@@ -36,6 +36,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Kyash24/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Kyash24/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Kyash24/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Kyash24/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kyash24/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kyash24/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -480,6 +481,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Kyash24/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Kyash24/LeetCode/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Kyash24/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Kyash24/LeetCode/tree/master/1732-find-the-highest-altitude) |
