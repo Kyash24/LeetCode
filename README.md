@@ -83,6 +83,7 @@
 | [0009-palindrome-number](https://github.com/Kyash24/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Kyash24/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kyash24/LeetCode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Kyash24/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kyash24/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Kyash24/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Kyash24/LeetCode/tree/master/0069-sqrtx) |
@@ -324,6 +325,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Kyash24/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Kyash24/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kyash24/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Kyash24/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kyash24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Kyash24/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Kyash24/LeetCode/tree/master/0118-pascals-triangle) |
@@ -524,6 +526,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kyash24/LeetCode/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kyash24/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Heap (Priority Queue)
 |  |
