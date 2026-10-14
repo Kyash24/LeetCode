@@ -226,6 +226,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kyash24/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kyash24/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Kyash24/LeetCode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Kyash24/LeetCode/tree/master/0224-basic-calculator) |
 | [0682-baseball-game](https://github.com/Kyash24/LeetCode/tree/master/0682-baseball-game) |
 | [1096-brace-expansion-ii](https://github.com/Kyash24/LeetCode/tree/master/1096-brace-expansion-ii) |
@@ -557,6 +558,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Kyash24/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Kyash24/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
