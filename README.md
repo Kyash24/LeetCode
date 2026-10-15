@@ -21,6 +21,7 @@
 | [0047-permutations-ii](https://github.com/Kyash24/LeetCode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Kyash24/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Kyash24/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Kyash24/LeetCode/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Kyash24/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kyash24/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kyash24/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -120,6 +121,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Kyash24/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Kyash24/LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Kyash24/LeetCode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Kyash24/LeetCode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Kyash24/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -258,6 +260,7 @@
 | [0022-generate-parentheses](https://github.com/Kyash24/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kyash24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Kyash24/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Kyash24/LeetCode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/Kyash24/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Kyash24/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Kyash24/LeetCode/tree/master/0151-reverse-words-in-a-string) |
