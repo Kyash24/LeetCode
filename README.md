@@ -23,6 +23,7 @@
 | [0056-merge-intervals](https://github.com/Kyash24/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Kyash24/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Kyash24/LeetCode/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/Kyash24/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Kyash24/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kyash24/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kyash24/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -294,6 +295,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kyash24/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kyash24/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kyash24/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Kyash24/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kyash24/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Kyash24/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -519,6 +521,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Kyash24/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Kyash24/LeetCode/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Kyash24/LeetCode/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Kyash24/LeetCode/tree/master/0994-rotting-oranges) |
