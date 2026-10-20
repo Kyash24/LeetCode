@@ -389,16 +389,19 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyash24/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kyash24/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/Kyash24/LeetCode/tree/master/0437-path-sum-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kyash24/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyash24/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kyash24/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyash24/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kyash24/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/Kyash24/LeetCode/tree/master/0437-path-sum-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kyash24/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
@@ -465,6 +468,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Kyash24/LeetCode/tree/master/0079-word-search) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Kyash24/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/Kyash24/LeetCode/tree/master/0437-path-sum-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kyash24/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
