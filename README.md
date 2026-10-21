@@ -20,6 +20,7 @@
 | [0042-trapping-rain-water](https://github.com/Kyash24/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Kyash24/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Kyash24/LeetCode/tree/master/0047-permutations-ii) |
+| [0055-jump-game](https://github.com/Kyash24/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Kyash24/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Kyash24/LeetCode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Kyash24/LeetCode/tree/master/0068-text-justification) |
@@ -337,6 +338,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Kyash24/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Kyash24/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kyash24/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Kyash24/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Kyash24/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Kyash24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Kyash24/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -432,6 +434,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kyash24/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Kyash24/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Kyash24/LeetCode/tree/master/0179-largest-number) |
 | [1386-cinema-seat-allocation](https://github.com/Kyash24/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kyash24/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
