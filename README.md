@@ -51,6 +51,7 @@
 | [0877-stone-game](https://github.com/Kyash24/LeetCode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Kyash24/LeetCode/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/Kyash24/LeetCode/tree/master/1140-stone-game-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/Kyash24/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1268-search-suggestions-system](https://github.com/Kyash24/LeetCode/tree/master/1268-search-suggestions-system) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Kyash24/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/Kyash24/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -148,6 +149,7 @@
 | [0217-contains-duplicate](https://github.com/Kyash24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Kyash24/LeetCode/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/Kyash24/LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/Kyash24/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/Kyash24/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Kyash24/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Kyash24/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
