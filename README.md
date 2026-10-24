@@ -396,6 +396,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyash24/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kyash24/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kyash24/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Kyash24/LeetCode/tree/master/0437-path-sum-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kyash24/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -408,6 +409,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kyash24/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kyash24/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kyash24/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Kyash24/LeetCode/tree/master/0437-path-sum-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kyash24/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
@@ -476,6 +478,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Kyash24/LeetCode/tree/master/0079-word-search) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kyash24/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kyash24/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/Kyash24/LeetCode/tree/master/0365-water-and-jug-problem) |
 | [0437-path-sum-iii](https://github.com/Kyash24/LeetCode/tree/master/0437-path-sum-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Kyash24/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -603,4 +606,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Kyash24/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kyash24/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kyash24/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
